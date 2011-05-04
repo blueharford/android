@@ -7,11 +7,9 @@
 <remote name="sz"
            fetch="git://github.com/Savaged-Zen/"
            review="review.savaged-zen.com" />
-<remote name="js"
-           fetch="git://github.com/jsseidel1/" />
+<remote name="js" fetch="git://github.com/jsseidel1/" />
 
-<remote name="cm"
-           fetch="git://github.com/CyanogenMOD/" />
+<remote name="cm" fetch="git://github.com/CyanogenMOD/" />
 
 <remote name="themes"
 	    fetch="git://github.com/tmobile"/>
